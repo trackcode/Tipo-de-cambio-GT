@@ -40,14 +40,3 @@ $tipoCambio = $obtainer->obtenerTipoCambio();
 echo $tipoCambio;
 ?>
 ```
-
-## Contribución
-
-Si deseas contribuir a este proyecto, puedes seguir los pasos a continuación:
-
-1. Realiza un fork de este repositorio.
-2. Crea una rama nueva para tu contribución.
-3. Realiza los cambios y mejoras en tu rama.
-4. Envía un pull request con tus cambios.
-
-Agradecemos todas las contribuciones para mejorar este proyecto y hacerlo más útil para la comunidad.
